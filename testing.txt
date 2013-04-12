@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is a test.
 Changing File.
 This is a change
 Update
+=======
+This is a test.
+>>>>>>> 65111e35d6e67b46753b7481a24c42e9c8033966
